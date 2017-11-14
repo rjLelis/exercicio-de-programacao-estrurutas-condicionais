@@ -11,6 +11,9 @@ Exercícios feitos durante meu 2º período da faculdade
               “y+4” diferente de zero
 
 2. Algoritmo que receba três valores e calcule a expressão abaixo:
+              x
+            -----
+           
 
         Condições para a realização do cálculo:
               “y” maior que zero
