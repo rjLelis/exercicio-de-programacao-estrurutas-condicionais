@@ -11,16 +11,21 @@ Exercícios feitos durante meu 2º período da faculdade
               “y+4” diferente de zero
 
 2. Algoritmo que receba três valores e calcule a expressão abaixo:
-              x
-            -----
-           
-
+             
+              x          3
+            ----- +  ----------
+             ²√y     cos(2) - 2
+       
         Condições para a realização do cálculo:
               “y” maior que zero
               “cos(z)-2” diferente de zero
 
 3. Algoritmo que receba os três coeficientes de uma equação do segundo
 grau e calcule as suas raízes reais:
+
+          x1 = -b + √b²-4ac       x2 = -b - √b²-4ac
+               --------------         --------------
+                    2a                     2a
 
         Condições para a realização do cálculo:
               “a” diferente de zero
