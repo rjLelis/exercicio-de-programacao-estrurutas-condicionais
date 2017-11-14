@@ -1,4 +1,4 @@
-# exercicio-de-programacao-estrurutas-condicionais
+# Exercicio de programação com estrurura condicionais
 Exercícios feitos durante meu 2º período da faculdade
 
 1. Algoritmo que receba dois valores e calcule a expressão abaixo:
