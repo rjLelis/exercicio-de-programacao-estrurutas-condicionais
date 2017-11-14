@@ -3,6 +3,10 @@ Exercícios feitos durante meu 2º período da faculdade
 
 1. Algoritmo que receba dois valores e calcule a expressão abaixo:
 
+                x-3
+               ----- + sen(y)
+                y+4
+
         Condições para a realização do cálculo:
               “y+4” diferente de zero
 
