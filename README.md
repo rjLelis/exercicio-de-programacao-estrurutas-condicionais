@@ -1,5 +1,7 @@
 # Exercicio de programação com estrurura condicionais
-Exercícios feitos durante meu 2º período da faculdade
+Lista de Exercícios da Disciplina de Programação 1
+
+Prof. Sidney Cunha
 
 1. Algoritmo que receba dois valores e calcule a expressão abaixo:
 
