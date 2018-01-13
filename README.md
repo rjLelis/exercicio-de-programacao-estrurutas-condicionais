@@ -48,45 +48,15 @@ uma das seguintes categorias:
            
 6. O cardápio de uma lanchonete é o seguinte:
 
-<html>
-  <table>
-    <tr>
-      <th>Especificação</th>
-      <th>Código</th>
-      <th>Preço</th>
-    </tr>
-    <tr>
-       <td>Cachorro-quente</td>
-       <td>100</td>
-       <td>1,20</td>
-     </tr>
-    <tr>
-      <td>Bauru simples</td>
-      <td>101</td>
-      <td>1,30</td>
-   </tr>
-   <tr>
-     <td>Bauru com ovo</td>
-     <td>102</td>
-     <td>1,50</td>
-   </tr>
-   <tr>
-     <td>Hambúrguer</td>
-     <td>103</td>
-     <td>1,20</td>
-   </tr>
-   <tr>
-     <td>Cheeseburguer</td>
-     <td>104</td>
-     <td>1,30</td>
-   </tr>
-    <tr>
-     <td>Refrigerante</td>
-     <td>105</td>
-     <td>1,00</td>
-   </tr>
-  </table>
-</html>
+
+| Especificação | Código | Preço |
+| ------------- | ------ | ----- |
+| Cachorro-quente | 100 | 1,20 |
+| Bauru simples | 101 | 1,30 |
+| Bauru com ovo | 102 | 1,50 |
+| Hambúrguer | 103 | 1,20 |
+| Cheeseburguer | 104 | 1,30 |
+| Refrigerante | 105 | 1,00 |
 
 Escrever um algoritmo que leia o código do item pedido, a quantidade e
 calcule o valor a ser pago por aquele lanche. Considere que a cada
@@ -106,30 +76,14 @@ por um cliente. O algoritmo deve receber o código de um produto e a
 quantidade comprada e calcular o preço total, usando a tabela abaixo.
 Mostre uma mensagem no caso de código inválido:
 
-<html>
-  <table>
-    <tr>
-      <th>código</th>
-      <th>preço unitário</th>
-    </tr>
-    <tr>
-      <td>'ABCD'</td>
-      <td>R$ 5,30</td>
-    </tr>
-    <tr>
-      <td>'XYPK'</td>
-      <td>R$ 6,00</td>
-    </tr>
-    <tr>
-      <td>'KLMP'</td>
-      <td>R$ 3,20</td>
-    </tr>
-    <tr>
-      <td>'QRST'</td>
-      <td>R$ 2,50</td>
-    </tr>
-  </table>
-</html>
+
+| Código | Preço unitário | 
+| ------ | -------------- |
+| 'ABCD' | R$ 5,30 | 1,20 |
+| 'XYPK' | R$ 6,00 | 1,30 |
+| 'KLMP' | R$ 3,20 | 1,50 |
+| 'QRST' | R$ 2,50 | 1,20 |
+
 9. Escrever um algoritmo que lê o número de identificação, as 3 notas
 obtidas por um aluno nas 3 verificações e a média dos exercícios que
 fazem parte da avaliação. Calcular a média de aproveitamento, usando
@@ -139,35 +93,13 @@ a fórmula:
             
 A atribuição de conceitos obedece a tabela abaixo:
 
-
-<html>
-  <table>
-    <tr>
-      <th>Média de Aproveitamento</th>
-      <th>Conceito</th>
-    </tr>
-    <tr>
-      <td>9,0</td>
-      <td>A</td>
-    </tr>
-    <tr>
-      <td>7,5 e < 9,0</td>
-      <td>B</td>
-    </tr>
-    <tr>
-      <td>6,0 e < 7,5</td>
-      <td>C</td>
-    </tr>
-    <tr>
-      <td>4,0 e < 6,0</td>
-      <td>D</td>
-    </tr>
-    <tr>
-      <td> < 4,0</td>
-      <td>E</td>
-    </tr>
-  </table>
-</html>
+| Média de Aproveitamento | Conceito | 
+| ----------------------- | -------- |
+| 9,0 | A |
+| 7,5 e < 9,0 | B |
+| 6,0 e < 7,5 | C |
+| 4,0 e < 6,0 | D |
+| < 4,0 | E | 
 
 O algoritmo deve escrever o número do aluno, suas notas, a média dos
 exercícios, a média de aproveitamento, o conceito correspondente e a
